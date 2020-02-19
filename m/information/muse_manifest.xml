@@ -1,0 +1,63 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="야자타임.com" resolutions="1x,2x" timestamp="1495374784845">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="174058788" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:tablet>index:index"/>
+    <file name="museredirect.js" crc="40941066" ref="tablet>index:index"/>
+  </folder>
+  <folder name="images">
+    <file name="u91-6.png" crc="4111608656" ref="phone>index"/>
+    <file name="u95-4.png" crc="4294469044" ref="phone>index"/>
+    <file name="u97-4.png" crc="119913791" ref="phone>index"/>
+    <file name="u98-9.png" crc="436913150" ref="phone>index"/>
+    <file name="u145-4.png" crc="531479733" ref="tablet>index"/>
+    <file name="u147-4.png" crc="4294469044" ref="tablet>index"/>
+    <file name="u149-4.png" crc="119913791" ref="tablet>index"/>
+    <file name="u150-9.png" crc="3954815131" ref="tablet>index"/>
+    <file name="u119-4.png" crc="3841558004" ref="index"/>
+    <file name="u121-4.png" crc="4294469044" ref="index"/>
+    <file name="u123-4.png" crc="119913791" ref="index"/>
+    <file name="u122-38.png" crc="222629932" ref="index"/>
+    <file name="u124-9.png" crc="55868624" ref="index"/>
+    <file name="u91-6_2x.png" crc="337474670" ref="phone>index"/>
+    <file name="u95-4_2x.png" crc="4106332547" ref="phone>index"/>
+    <file name="u97-4_2x.png" crc="4286593333" ref="phone>index"/>
+    <file name="u98-9_2x.png" crc="4061657580" ref="phone>index"/>
+    <file name="u145-4_2x.png" crc="525894899" ref="tablet>index"/>
+    <file name="u147-4_2x.png" crc="4106332547" ref="tablet>index"/>
+    <file name="u149-4_2x.png" crc="4286593333" ref="tablet>index"/>
+    <file name="u150-9_2x.png" crc="18403441" ref="tablet>index"/>
+    <file name="u119-4_2x.png" crc="4163085491" ref="index"/>
+    <file name="u121-4_2x.png" crc="4106332547" ref="index"/>
+    <file name="u123-4_2x.png" crc="4286593333" ref="index"/>
+    <file name="u122-38_2x.png" crc="11252949" ref="index"/>
+    <file name="u124-9_2x.png" crc="3761118394" ref="index"/>
+    <file name="u96-38.png" crc="418043459" ref="phone>index"/>
+    <file name="u96-38_2x.png" crc="456646523" ref="phone>index"/>
+    <file name="u148-38.png" crc="451150117" ref="tablet>index"/>
+    <file name="u148-38_2x.png" crc="4117282189" ref="tablet>index"/>
+    <file name="u93-138.png" crc="334863105" ref="phone>index"/>
+    <file name="u93-138_2x.png" crc="83536316" ref="phone>index"/>
+    <file name="u146-138.png" crc="4062409871" ref="tablet>index"/>
+    <file name="u146-138_2x.png" crc="4086338308" ref="tablet>index"/>
+    <file name="u120-138.png" crc="3866256301" ref="index"/>
+    <file name="u120-138_2x.png" crc="4200162904" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="3783606305" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4178901585" seo="true" mt="1495374753420" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4191197032" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="430375467" seo="true" mt="1495374769294" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3879960901" seo="true" mt="1495374735382" redirect="true"/>
+</manifest>

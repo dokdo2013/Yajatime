@@ -1,0 +1,91 @@
+.version.index /* version checker */
+{
+	color: #00000A;
+	background-color: #5FED24;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 920px;
+	min-height: 418px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px 20px 62px;
+}
+
+#u119-4
+{
+	z-index: 2;
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u121-4
+{
+	z-index: 144;
+	display: block;
+	vertical-align: top;
+	margin-top: 11px;
+	position: relative;
+}
+
+#u120-138
+{
+	z-index: 6;
+	display: block;
+	vertical-align: top;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u123-4
+{
+	z-index: 186;
+	display: block;
+	vertical-align: top;
+	margin-top: 11px;
+	position: relative;
+}
+
+#u122-38
+{
+	z-index: 148;
+	display: block;
+	vertical-align: top;
+	margin-top: 8px;
+	position: relative;
+}
+
+#u124-9
+{
+	z-index: 190;
+	display: block;
+	vertical-align: top;
+	margin-top: 63px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

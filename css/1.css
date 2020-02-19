@@ -1,0 +1,205 @@
+@font-face {
+
+    font-family:'NanumGothic';
+
+    src: url('images/NanumGothic.eot');
+
+    src: url('images/NanumGothic.eot?#iefix') format('embedded-opentype'),
+
+         url('images/NanumGothic.woff') format('woff'),
+
+         url('images/NanumGothic.ttf') format('truetype');
+
+    font-weight: normal;
+
+    font-style: normal;
+
+}
+
+
+body {
+    font-family:'맑은고딕' 'NanumGothic';
+    margin: 0;
+    padding: 0;
+   }
+
+#title {
+	font-family:'맑은고딕' 'NanumGothic';
+    font-weight: bold;
+    font-size: 1.5em;
+	margin-top: 5em;
+}
+
+#enter {
+	font-size: 1em;
+	margin-top: 20em;
+}
+
+#cover {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#sbch {
+  font-size: 1em;
+  text-align: center;
+  margin-top: 0.5%;
+}
+
+#mainbd {
+  background: -moz-linear-gradient( bottom, #C0B5ff, #fff8be);
+	background: linear-gradient( to bottom, #C0B5ff, #fff8be);
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+#bt1 {
+	margin-top: 7%;
+	width: 50%;
+  float: left;
+}
+
+#bt2 {
+	margin-top: 3%;
+	width: 50%;
+  float: left;
+}
+
+#bt3 {
+	margin-top: 3%;
+	width: 50%;
+  float: left;
+}
+
+#bt4 {
+	margin-top: 7%;
+	width: 33.33%;
+  float: left;
+}
+
+#dongrs {
+	margin-top: 8%;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#mulseat {
+	width: 40%;
+  margin-top: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#input {
+  width: 25%;
+  margin-top:5%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
+}
+
+#textip1 {
+  width: 10%;
+  height: 3%;
+  margin-left: 39.5%;
+  margin-top: 1%;
+  float: left;
+}
+
+#textip2 {
+  width: 10%;
+  height: 3%;
+  margin-right: 39.5%;
+  margin-top: 1%;
+  float:right;
+}
+
+#textip3 {
+  width: 2%;
+  height: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 5%;
+}
+
+#multextip1 {
+  width: 10%;
+  height: 3%;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 1%;
+}
+
+#multextip2 {
+  width: 10%;
+  height: 3%;
+  margin-right: 33%;
+  margin-top: 1%;
+  float:right;
+}
+
+#st {
+  width: 10%;
+  height: 3%;
+  margin-left: 33%;
+  margin-top: 1%;
+  float: left;
+}
+
+#multimap {
+  width: 80%;
+  margin-top: 3%;
+  margin-bottom: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+#textipm1 {
+  width: 20%;
+  height: 5%;
+  margin-top: 1%;
+}
+
+#textipm2 {
+  width: 20%;
+  height: 5%;
+  margin-right: 17%;
+  margin-top: 1%;
+}
+
+#foot {
+  height:4%;
+  background-color: #353840;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+#fopp {
+  font-size: 0.6em;
+  text-align: center;
+  color: #9e9e9e;
+  margin-top: 0.2%;
+  margin-bottom: 0;
+}
+
+#fop {
+  font-size: 0.5em;
+  text-align: center;
+  color: #9e9e9e;
+  margin: 0;
+}
+
+#submit {
+  width: 3%;
+  height: 2.5%;
+  margin-left: 48.5%;
+  margin-top: 1%;
+  margin-right: 48.5%;
+}
