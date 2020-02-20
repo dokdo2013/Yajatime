@@ -21,3 +21,4 @@
 - 언어 : php / html / jquery(ajax)
 - 서버 환경 (최소) : Apache 2.2 / php 5.6 / mysql 5.5
 - 서버 환경 (권장) : Apache 2.4 / php 7.0 / mysql 5.7
+- 개발자 : 조현우(dokdo2013), 안창영
